@@ -1,3 +1,7 @@
+## Website link
+
+You can access your website [here](https://mbastard.github.io/MarketInsight_website/)
+
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/mbastard/MarketInsight_website/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
