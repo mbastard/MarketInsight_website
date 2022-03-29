@@ -1,6 +1,6 @@
 ## Website link
 
-You can access your website [here](https://mbastard.github.io/MarketInsight_website/)
+You can access the website [here](https://mbastard.github.io/MarketInsight_website/)
 
 ## Welcome to GitHub Pages
 
